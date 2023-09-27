@@ -1,0 +1,49 @@
+*{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    
+}
+
+
+.top-header-flex{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 0 auto;
+    padding: 1% 10%;
+    background: rgb(255, 115, 0);
+
+}
+
+nav a{
+    text-decoration: none;
+    color: white;
+    font-weight: bold;
+   
+   
+}   
+
+.padding-left{
+    padding-left: 5px
+}
+
+.logo-container{
+    width: 10%;
+}
+
+header .logo{
+    width: 100%;
+    
+}
+
+.header-icons{
+    color: white;
+
+}
+
+.padding-right{
+    padding-right: 8px;
+}
+
